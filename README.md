@@ -1,4 +1,4 @@
-#📱 Yelp API ile Restoran Arama Uygulaması
+# **📱 Yelp API ile Restoran Arama Uygulaması**
 
 Açıklama
 Bu proje, React Native kullanılarak geliştirilmiş basit bir restoran arama uygulamasıdır. 
