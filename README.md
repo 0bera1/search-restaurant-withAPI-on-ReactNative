@@ -1,5 +1,5 @@
-***ENG***
-# **📱 Restaurant Search App with Yelp API**
+
+# **📱 Restaurant Search App with Yelp API(ENG)**
 
 **Description**
 This project is a simple restaurant search application developed using React Native. The app integrates with the Yelp API to enable users to search and view restaurants. It features a clean and elegant design. Users can search for restaurant categories through a search bar and view results in scrollable sliders.
@@ -37,11 +37,7 @@ This project is licensed under the MIT License.
 
 
 
-
-
-
-***TR***
-# **📱 Yelp API ile Restoran Arama Uygulaması**
+# **📱 Yelp API ile Restoran Arama Uygulaması(TR)**
 
 **Açıklama**
 Bu proje, React Native kullanılarak geliştirilmiş basit bir restoran arama uygulamasıdır. 
